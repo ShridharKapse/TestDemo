@@ -1,4 +1,7 @@
 # TestDemo
-This is first line on remote server Github
-Second line added
-Line addedd localy
+This is first line on remote server Github.  
+
+Second line added.  
+
+Line addedd localy.  
+One more line from remote repo.
